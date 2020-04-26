@@ -11,5 +11,5 @@ def pioneer
 end
 
 def id_hash_generator(number)
-  return hash = {id: number)
+  return hash = {id: number}
 end

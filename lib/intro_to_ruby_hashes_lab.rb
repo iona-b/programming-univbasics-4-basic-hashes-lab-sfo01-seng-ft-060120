@@ -10,7 +10,6 @@ def pioneer
   return hash = {name: "Grace Hopper"}
 end
 
-
 def id_hash_generator(number)
-  hash = {id: number)
+  return hash = {id: number)
 end
